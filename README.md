@@ -5,7 +5,7 @@ Owner and Founder of [Fayzie](https://fayzie.xyz) , Full time desinger and part 
 
 **Coding Skills** = C# | PHP | JS | HTML | CSS | LUA
 
-**Designing Using** = Photoshop 2022 | Illustrator 2019 | After effects 2022 | VEGAS PRO 2017 
+**Programs I use for designing** = Photoshop 2022 | Illustrator 2019 | After effects 2022 | VEGAS PRO 2017 
 
 <br>
 <br>
