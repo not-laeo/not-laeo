@@ -15,10 +15,16 @@ Owner and Founder of [Fayzie](https://fayzie.xyz) , Full time desinger and part 
 ### Want to become a staff member at Fayzie ? This is your chance to enter today!
 But there is some requirements you should have
 ㅤ•ㅤYou must be older than 15 years
+
 ㅤ•ㅤExperienced with any code languages
+
 ㅤ•ㅤSpeak/write english fluently
+
 ㅤ•ㅤHave a experience with being a forum moderator
+
 ㅤ•ㅤA minimum of 150+ words in your application.
 
+
 How do I apply for staff ?
+
 ㅤ•ㅤ[Click me to enter the application forum](https://docs.google.com/forms/d/e/1FAIpQLSc4NVjfzEwY4_iQafgOfV6HYyyjHfpSLMXdw5w4mp8k32y_JA/viewform)
