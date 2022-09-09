@@ -3,7 +3,7 @@
 ### Agent 47 or laeo
 Owner and Founder of [Fayzie](https://fayzie.xyz) , Full time desinger and part time FiveM developer 
 
-**Coding Skills** = C# | PHP | JS | HTML | CSS | LUA
+**Coding Skills** = C# | PHP | HTML | CSS | LUA | And a little bit of JS
 
 **Programs I use for designing** = Photoshop 2022 | Illustrator 2019 | After effects 2022 | VEGAS PRO 2017 
 
